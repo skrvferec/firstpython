@@ -38,7 +38,7 @@
 # elif login == 'nasib' and parol== 12345 :
 #     print ('xosh geldiniz '+login)
 
-a = int(input('Eded daxil edin : '))
-b = int(input('Eded daxil edin : '))
-c= int(input('Eded daxil edin :'))
-print(max(a,b,c))
+# a = int(input('Eded daxil edin : '))
+# b = int(input('Eded daxil edin : '))
+# c= int(input('Eded daxil edin :'))
+# print(max(a,b,c))
